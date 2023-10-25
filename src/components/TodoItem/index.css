@@ -1,0 +1,13 @@
+.btn {
+  color: red;
+  border: 1px solid red;
+  background-color: white;
+  height: 35px;
+  width: 60px;
+  border-radius: 5px;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
